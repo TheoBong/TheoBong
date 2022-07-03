@@ -1,12 +1,14 @@
 ### Hi there, I'm Theo 👋
 ## I'm currently learning Java, React, and C#.
-If you wanna make the world a better place <br>
-Take a look at yourself and then make a change <br>
+> *If you wanna make the world a better place* <br>
+> *Take a look at yourself and then make a change* <br>
+> <br>
+> Michael Jackson, 1988 <br>
 
 - 👇 I’m currently working on different [Web Games][games]!
 - 📺 I like watching NCAA Basketball & Football.
-- 🏈 Detroit Lions & Jared Goff > Packers & Aaron Rodgers
-- 🏀 Drop LeBrick James and double Westbrook's salary.
+- 🏈 Detroit Lions & Jared Goff > Green Bay Packers & Aaron Rodgers
+- 🏀 LA Clippers are going to win the 2023 NBA Championship
 
 ### Contact Me:
 
