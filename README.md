@@ -5,19 +5,9 @@
 > <br>
 > Michael Jackson, 1988 <br>
 
-- 👇 I’m currently working on different [Web Games][games]!
-- 📺 I like watching NCAA Basketball & Football.
-- 🏈 Detroit Lions & Jared Goff > Green Bay Packers & Aaron Rodgers
-- 🏀 LA Clippers are going to win the 2023 NBA Championship
-
-### Contact Me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />][snapchat]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
+- 👇 I’m currently working on game implementations for [BTC Lightning Network][lnd]!
+- 🏈 Detroit Lions are for sure making playoffs next season.
+- 🏀 LA Clippers & New York Knicks are going to the 2023 NBA Championship
 
 ### Languages and Tools:
 
@@ -40,8 +30,4 @@
 <br />
 
 ---
-[website]: https://bongbong.com/
-[games]: https://bongbong.com/games/
-[instagram]: https://instagram.com/theobongg
-[snapchat]: https://www.snapchat.com/add/theobongg
-[twitter]: https://twitter.com/theobong
+[lnd]: https://lightning.network/
