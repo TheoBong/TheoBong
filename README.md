@@ -7,7 +7,7 @@
 
 - 👇 I’m currently working on game implementations for [BTC Lightning Network][lnd]!
 - 🏈 Detroit Lions are for sure making playoffs next season.
-- 🏀 LA Clippers & New York Knicks are going to the 2023 NBA Championship
+- 🏀 LA Clippers & Denver Nuggets are going to the 2023 NBA Championship
 
 ### Languages and Tools:
 
