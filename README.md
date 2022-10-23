@@ -6,8 +6,7 @@
 > Michael Jackson, 1988 <br>
 
 - 👇 I’m currently working on game implementations for [BTC Lightning Network][lnd]!
-- 🏈 Detroit Lions are for sure making playoffs next season.
-- 🏀 LA Clippers & Denver Nuggets are going to the 2023 NBA Championship
+- 🏈 NY Giants are taking it to the superbowl
 
 ### Languages and Tools:
 
