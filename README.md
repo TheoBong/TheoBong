@@ -6,7 +6,7 @@
 > Michael Jackson, 1988 <br>
 
 - 👇 I’m currently working on game implementations for [BTC Lightning Network][lnd]!
-- 🏈 NY Giants are taking it to the superbowl
+- 🏈 ~~NY Giants are taking it to the superbowl~~
 
 ### Languages and Tools:
 
