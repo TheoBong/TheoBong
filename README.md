@@ -1,32 +1,31 @@
-### Hi there, I'm Theo 👋
-## I'm currently learning Java, React, and C#.
-> *If you wanna make the world a better place* <br>
-> *Take a look at yourself and then make a change* <br>
-> <br>
-> Michael Jackson, 1988 <br>
+"Skills" (personal)
+-
+* Beating around the bush
+* Putting all my eggs in one basket
+* Going back to the drawing board
+* Crossing that bridge when I get there
+* Biting off more than I can chew
 
-- 👇 I’m currently working on game implementations for [BTC Lightning Network][lnd]!
-- 🏈 ~~NY Giants are taking it to the superbowl~~ :(
+"Skills" (technical)
+-
+* Debugging by adding console.log(“here”) until the problem feels shame
+* Writing functions so pure they refuse to mutate anything (including themselves)
+* Merging without reading the diff (trust-driven development)
+* Writing code too complex for current hardware (often mislabled as "unoptimized")
 
-### Languages and Tools:
+Research Interests
+-
+* Serverless servers, databaseless databases
+* Scientifically scientific sciences
+* Decentralized chaos theory 
+* Performative dilly-dallying, industrial minutiae optimization (ad hoc)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+Masterpiece Appreciation List
+-
+Interstellar, Fight Club, Band of Brothers, Red Dead Redemption 2, Star Wars: A New Hope, Luger P08, 2011 BMW 328i, Apple UX, "Object-Oriented Programming is Bad" by Brian Will, Superbowl LI, D-Day invasion (6/6/1944), Newton's Third Law
 
-<br />
-<br />
+<br>
 
----
-[lnd]: https://lightning.network/
+> "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."
+
+Steve Jobs 2005
