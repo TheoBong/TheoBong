@@ -20,3 +20,7 @@ Interstellar, Fight Club, Band of Brothers, Red Dead Redemption 2, Star Wars: A 
 > "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."
 
 Steve Jobs, 2005
+
+> "Everythings a copy of a copy of a copy."
+
+Tyler Durden
