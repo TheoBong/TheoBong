@@ -1,7 +1,6 @@
 "Skills"
 -
-* Debugging by adding console.log(“here”) until the bug feels shame
-* Writing functions so pure they refuse to mutate anything (including themselves)
+* Debugging by adding console.log(“checkpoint #”) until the bug feels shame enough to delete itself
 * Merging without reading the diff (trust-driven development)
 * Writing code too complex for current hardware (often mislabled as "unoptimized")
 * Beating around the bush, crossing that bridge when I get there, then biting off more than I can chew
