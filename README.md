@@ -1,14 +1,12 @@
 "Skills" (personal)
 -
 * Beating around the bush
-* Putting all my eggs in one basket
-* Going back to the drawing board
 * Crossing that bridge when I get there
 * Biting off more than I can chew
 
 "Skills" (technical)
 -
-* Debugging by adding console.log(“here”) until the problem feels shame
+* Debugging by adding console.log(“here”) until the bug feels shame
 * Writing functions so pure they refuse to mutate anything (including themselves)
 * Merging without reading the diff (trust-driven development)
 * Writing code too complex for current hardware (often mislabled as "unoptimized")
