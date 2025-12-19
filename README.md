@@ -9,8 +9,7 @@ Research Interests
 -
 * Serverless servers, databaseless databases
 * Scientifically scientific sciences
-* Decentralized chaos theory 
-* Performative dilly-dallying, industrial minutiae optimization (on an ad hoc basis)
+* Ad hoc industrial minutiae optimizations
 
 Masterpiece Appreciation List
 -
