@@ -9,16 +9,11 @@ Research Interests
 -
 * Serverless servers, databaseless databases
 * Scientifically scientific sciences
-* Ad hoc industrial minutiae optimizations
 
 Masterpiece Appreciation List
 -
-Interstellar, Fight Club, Band of Brothers, Red Dead Redemption 2, Star Wars: A New Hope, Luger P08, 2011 BMW 328i, Apple UX, "Object-Oriented Programming is Bad" by Brian Will, Superbowl LI, D-Day invasion (6/6/1944), Newton's Third Law, Leif K-Brook's [omegle obituary](https://www.omegle.com/)
+Interstellar, Fight Club, Band of Brothers, The Wire, Red Dead Redemption 2, Star Wars: A New Hope, Luger P08, 2011 BMW 328i, Apple UX, "Object-Oriented Programming is Bad" by Brian Will, D-Day invasion, Newton's Third Law, Leif K-Brook's [omegle obituary](https://www.omegle.com/), Thomas Massie's Congressional Term (2012-2026).
 
-> "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."
-
-Steve Jobs, 2005
-
-> "Everythings a copy of a copy of a copy."
+> "Everything's a copy of a copy of a copy."
 
 Tyler Durden
