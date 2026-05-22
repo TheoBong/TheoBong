@@ -7,7 +7,7 @@
 
 Research Interests
 -
-* Serverless servers, databaseless databases
+* Serverless servers, dataless databases
 * Scientifically scientific sciences
 
 Masterpiece Appreciation List
