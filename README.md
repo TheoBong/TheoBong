@@ -1,3 +1,8 @@
+> Can't buy what I want because it's *free* \
+> Can't buy what I want because it's [free](https://www.gnu.org/philosophy/free-sw.html)
+
+Pearl Jam. “Corduroy.” *Vitalogy*
+
 "Skills"
 -
 * Debugging by adding console.log(“checkpoint #”) until the bug feels shame enough to delete itself
@@ -13,7 +18,3 @@ Research Interests
 Masterpiece Appreciation List
 -
 Interstellar, Fight Club, Band of Brothers, The Wire, Red Dead Redemption 2, 1923 (TV Show), Star Wars: A New Hope, Luger P08, 2011 BMW 328i, Apple UX, "Object-Oriented Programming is Bad" by Brian Will, D-Day invasion, Newton's Third Law, Leif K-Brook's [omegle obituary](https://www.omegle.com/), Thomas Massie's Congressional Term (2012-2026), Lewis & Clark Expedition.
-
-> "Everything's a copy of a copy of a copy."
-
-Tyler Durden
